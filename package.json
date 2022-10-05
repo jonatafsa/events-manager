@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GNU",
   "dependencies": {
     "@prisma/client": "^4.3.1",
     "cors": "^2.8.5",
