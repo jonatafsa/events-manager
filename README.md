@@ -10,7 +10,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/C3gn3nYdMBU/maxresdefault.jpg)](https://youtu.be/C3gn3nYdMBU)
 
-> O projeto tem como objetivo ser um gerenciador de ventos, onde o usuário cadastra eventos e os gerencia, onde cada evento tem um status e informações unicas.
+> O projeto tem como objetivo ser um gerenciador de eventos, onde o usuário cadastra eventos e os gerencia, onde cada evento tem um status e informações unicas.
 
 ### Ajustes e melhorias
 
