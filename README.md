@@ -35,15 +35,33 @@ Para instalar o Event Manager, siga estas etapas:
 
 comando de instalação:
 
+FRONT-end
 - inicializando a instalação
 ```
 npm i
 ```
 
+BACK-end
+
+Iniciando a aplicação
+```
+npm i
+```
+
+Criando a migration(SQLITE, PRISMA)
+```
+npx prisma migrate dev --name init
+```
+
 ## ☕ Usando
 
 Para usar o Event Manager, siga estas etapas:
+FRONT-end
+```
+npm run dev
+```
 
+BACK-end
 ```
 npm run dev
 ```
