@@ -56,6 +56,7 @@ npx prisma migrate dev --name init
 ## ☕ Usando
 
 Para usar o Event Manager, siga estas etapas:
+
 FRONT-end
 ```
 npm run dev
