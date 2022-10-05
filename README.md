@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEU7-pZ_-nEG92lP2bqw52j4cm8BcAP5LHlxJgK3i9aN6ue5O41sbUBHAMFiNV9WIDkFvUfbvN9wHi8-0ps9db6FkMvgrd_p94LIw-Q1dzWo8kU36iixGXnLWimI1C_JZ3S8XN02_o9ravl2QgrNqUGqUw=w1571-h905-no?authuser=0" alt="Banner">
+[![Watch the video](https://img.youtube.com/vi/C3gn3nYdMBU/maxresdefault.jpg)](https://youtu.be/C3gn3nYdMBU)
 
 > O projeto tem como objetivo ser um gerenciador de ventos, onde o usuário cadastra eventos e os gerencia, onde cada evento tem um status e informações unicas.
 
