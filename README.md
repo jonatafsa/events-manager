@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jonatafsa/events-manager?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/jonatafsa/events-manager?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/jonatafsa/events-manager?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jonatafsa/events-manager?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jonatafsa/events-manager?style=for-the-badge)
 
 <img src="https://lh3.googleusercontent.com/pw/AL9nZEU7-pZ_-nEG92lP2bqw52j4cm8BcAP5LHlxJgK3i9aN6ue5O41sbUBHAMFiNV9WIDkFvUfbvN9wHi8-0ps9db6FkMvgrd_p94LIw-Q1dzWo8kU36iixGXnLWimI1C_JZ3S8XN02_o9ravl2QgrNqUGqUw=w1571-h905-no?authuser=0" alt="Banner">
 
